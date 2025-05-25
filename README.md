@@ -24,7 +24,7 @@ CREATE TABLE sightings (
 
 ### প্রশ্ন-৪: What is the difference between the VARCHAR and CHAR data types?
 CHAR এবং VARCHAR এর পার্থক্য নিচে দেওয়া হলো:
-| CHAR (ফিক্সড দৈর্ঘ্য)                                                 | VARCHAR (ভ্যারিয়েবল দৈর্ঘ্য)                                  |
+| CHAR                                                               | VARCHAR                                                         |
 |-------------------------------------------------------------------|------------------------------------------------------------------|
 | Fixed-length character ডাটা টাইপ                                   | Variable-length character ডাটা টাইপ                              |
 | এটি নির্দিষ্ট দৈর্ঘ্যের ডেটা সংরক্ষণ করে                                   | এটি কেবল প্রয়োজনীয় ডেটা সংরক্ষণ করে                          |
